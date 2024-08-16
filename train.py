@@ -13,7 +13,7 @@ if __name__ == '__main__':
     # Define paths
 
     
-    dataset_path = './indoor-hd'
+    dataset_path = './dataset_name'
 
     model_save_path = './temp/outpaint_models'
     html_save_path = './temp/outpaint_html'
